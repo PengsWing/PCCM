@@ -1,3 +1,4 @@
+# PC Cafe Manager
 class Room:
     def __init__(self):
         self.chunk = [] #each chunk is define with xyz
